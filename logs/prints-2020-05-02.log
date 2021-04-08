@@ -1,0 +1,6 @@
+23:16:01.091 [main] INFO  resources.baseInitialise - `landing on the Controlgroup page
+23:16:13.682 [main] INFO  resources.baseInitialise - Driver is initialised
+23:16:21.907 [main] INFO  resources.baseInitialise - Landing on the drag and drop page
+23:16:31.532 [main] INFO  resources.baseInitialise - Driver is initialised
+23:16:39.951 [main] INFO  resources.baseInitialise - landing on the items selectable page
+23:16:40.949 [main] INFO  resources.baseInitialise - [[[ChromeDriver: chrome on ANY (f97049c6ed238cb36569cc07e89d6f57)] -> xpath: //li[contains(text(),'Item ')]], [[ChromeDriver: chrome on ANY (f97049c6ed238cb36569cc07e89d6f57)] -> xpath: //li[contains(text(),'Item ')]], [[ChromeDriver: chrome on ANY (f97049c6ed238cb36569cc07e89d6f57)] -> xpath: //li[contains(text(),'Item ')]], [[ChromeDriver: chrome on ANY (f97049c6ed238cb36569cc07e89d6f57)] -> xpath: //li[contains(text(),'Item ')]], [[ChromeDriver: chrome on ANY (f97049c6ed238cb36569cc07e89d6f57)] -> xpath: //li[contains(text(),'Item ')]], [[ChromeDriver: chrome on ANY (f97049c6ed238cb36569cc07e89d6f57)] -> xpath: //li[contains(text(),'Item ')]], [[ChromeDriver: chrome on ANY (f97049c6ed238cb36569cc07e89d6f57)] -> xpath: //li[contains(text(),'Item ')]]]

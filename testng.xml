@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <test name="Gillete India Registeration">
+    <classes>
+      <class name="project.Gillete_India_Registeration_ExcelDriven"/>
+          </classes>
+      </test>
+       <test name="Gillete India Signin">
+    <classes>
+      <class name="project.Gillete_IndiaSignin"/>
+          </classes>
+      </test>
+        <test name="Gillete India ForgotPassword">
+    <classes>
+      <class name="project.gillete_India_ForgotPassword"/>
+          </classes>
+      </test>
+      <test name="Gillete Germany Registeration">
+    <classes>
+      <class name="project.Gillete_Germany_Registeration_ExcelDriven"/>
+          </classes>
+      </test>
+        <test name="Gillete Germany signin">
+    <classes>
+      <class name="project.Gillete_GermanySignin"/>
+          </classes>
+      </test>
+         <test name="Gillete Germany ForgotPassword">
+    <classes>
+      <class name="project.gillete_Germany_ForgotPassword"/>
+          </classes>
+      </test>
+</suite> <!-- Suite -->

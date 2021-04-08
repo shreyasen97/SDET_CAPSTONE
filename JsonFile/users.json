@@ -1,0 +1,37 @@
+{
+      "user1":
+      [{
+            "NAME":"Gaurav",
+            "LASTNAME":"Mishra",
+            "EMAIL":"gauravmishra11@gmail.com",
+            "PASSWORD":"abcdef@123",
+            "CONFIRMPASSWORD":"abcdef@123",
+            "PHONE NUMBER":"+348912342312",
+            
+ 
+    }]
+    
+    
+    "user2":
+       [{
+            "NAME":"Gaurav",
+            "LASTNAME":"Mishra",
+            "EMAIL":"gauravmishra09@gmail.com",
+            "PASSWORD":"abcdef@123",
+            "CONFIRMPASSWORD":"abcdef@123",
+            "PHONE NUMBER":"+348912342312",
+            
+ 
+    }]
+    "user3":
+       [{
+            "NAME":"Gaurav",
+            "LASTNAME":"Mishra",
+            "EMAIL":"gauravmishra10@gmail.com",
+            "PASSWORD":"abcdef@123",
+            "CONFIRMPASSWORD":"abcdef@123",
+            "PHONE NUMBER":"+348912342312",
+            
+ 
+    }]
+    }
